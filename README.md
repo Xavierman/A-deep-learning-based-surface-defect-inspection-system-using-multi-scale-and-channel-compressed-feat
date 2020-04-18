@@ -24,7 +24,7 @@ Caffe: https://github.com/BVLC/caffe
 Our Model also uses the pretrain model SqueezeNet-1.0
 SqueezeNet: https://github.com/DeepScale/SqueezeNet
 
-Train file-train.prototxt. More trianing detials please refer to our paper.
+Train file-train.prototxt. More training detials please refer to our paper.
 
 ### Test
 Use deploy.prototxt and usb-classification.caffemodel to get the results.
