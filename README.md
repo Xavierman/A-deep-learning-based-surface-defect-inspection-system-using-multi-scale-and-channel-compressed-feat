@@ -10,7 +10,7 @@ In this paper, we firstly proposed to incorporate multiple convolutional layers 
 ###  Dataset
 <img src="dataset.png" width="100%" height="100%">
 
-The training dataset can be downloaded at:
+The training and testing dataset can be downloaded at:
 
 Google Drive: https://drive.google.com/open?id=16KaVJS5YKrginhFM1Yk9TtnrikokpXGq
 
