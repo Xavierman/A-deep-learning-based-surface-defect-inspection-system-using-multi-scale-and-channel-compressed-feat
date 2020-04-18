@@ -15,7 +15,7 @@ Google Drive: https://drive.google.com/open?id=16KaVJS5YKrginhFM1Yk9TtnrikokpXGq
 Baidu Cloud: https://pan.baidu.com/s/1UiaK1VxM0kKVlTwhj0gauw  Code：8bt4 
 
 ### Overall system
-<img src="overallframework.png" width="100%" height="100%">
+<img src="framework.png" width="80%" height="80%">
 
 ### Implementations
 This code is based on Caffe. Thanks to the contributors of Caffe.
@@ -24,9 +24,8 @@ Caffe: https://github.com/BVLC/caffe
 Our Model also uses the pretrain model SqueezeNet-1.0
 SqueezeNet: https://github.com/DeepScale/SqueezeNet
 
-
-
-### Experimental Results
+### Test
+Use deploy.protxt and usb-classification.caffemodel to get the results.
 
 
 ### Contact
